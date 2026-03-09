@@ -52,4 +52,7 @@ Matplotlib – Data visualization
 
 Seaborn – Statistical data visualization
 
+If you want to clone my repository then use below line
+git clone https://github.com/Nitesh5335/Movie_Dataset_Analyser.git
+
 Comparison of movies based on vote counts
